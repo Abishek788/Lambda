@@ -159,7 +159,7 @@ const App = () => {
 
   // API endpoint URL (replace with your actual API Gateway URL)
   const apiUrl =
-    "https://your-api-id.execute-api.region.amazonaws.com/your-stage/cart";
+    "https://ffim92cawa.execute-api.us-east-1.amazonaws.com/LambdaApi";
 
   // Add product to cart
   const addToCart = async (product) => {
